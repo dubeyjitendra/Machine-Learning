@@ -1,6 +1,6 @@
  Machine-Learning
  
- Plan for coverinng following algorithm:
+ Plan for covering following algorithm step by step to create model:
  
  1- Linear Regression
  
