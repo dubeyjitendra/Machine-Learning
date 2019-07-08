@@ -1,4 +1,4 @@
- Machine-Learning
+ <b>Machine-Learning</b>
  
  
  Preprocessing is very impotant aspects in machine learning so we will also cover preprocessing, beloow are the following points:
