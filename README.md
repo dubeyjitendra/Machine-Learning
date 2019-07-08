@@ -1,5 +1,6 @@
  <h1>Machine-Learning</h1>
  
+<h3> Part -1 --- Preprocessing </h3>
  
  Preprocessing is very impotant aspects in machine learning so we will also cover preprocessing, beloow are the following points:
  
@@ -9,7 +10,7 @@
 
 3.	Bi-variate Analysis
 
-4- Multi- variate Analysis
+ 4- Multi- variate Analysis
 
 5.	Missing values treatment
 
@@ -26,10 +27,9 @@
 11. Exploratory data analysis (EDA)
 
 
-
  
+ <h3> Part -2 --- Algorithms </h3>
  
- Plan for covering following algorithm step by step to create model:
  
  1- Linear Regression
  
