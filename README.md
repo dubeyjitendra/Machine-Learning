@@ -10,7 +10,7 @@
 
 3.	Bi-variate Analysis
 
- 4- Multi- variate Analysis
+4- Multi- variate Analysis
 
 5.	Missing values treatment
 
